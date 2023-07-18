@@ -22,6 +22,7 @@ public class 가변길이매개변수 {
 			result += num;
 		}
 
+		
 		return result;
 	}
 
